@@ -3,22 +3,30 @@
     {
       "title": "Revenue",
       "value": "$2.047",
-      "value1": "+10%"
+      "isAddition": false,
+      "value1": "10",
+      "icons": "BsFillArrowUpRightCircleFill"
     },
     {
       "title": "Orders",
+      "isAddition": true,
       "value": 356,
-      "value1": "+20%"
+      "value1": "20",
+      "icons": "AiOutlineShoppingCart"
     },
     {
       "title": "Dine in",
+      "isAddition": true,
       "value": 220,
-      "value1": "+10%"
+      "value1": "10",
+      "icons": "GiForkKnifeSpoon"
     },
     {
       "title": "Take away",
+      "isAddition": false,
       "value": 135,
-      "value1": "+5%"
+      "value1": "5",
+      "icons": "BiCoffeeTogo"
     }
   ]
 }
