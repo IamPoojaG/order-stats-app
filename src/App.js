@@ -1,9 +1,10 @@
-import './App.css';
+import React from 'react';
+import WidgetOrderStats from './WidgetOrderStats';
 
 function App() {
   return (
     <div className='App'>
-      <h1>hello</h1>
+      <WidgetOrderStats />
     </div>
   );
 }

@@ -1,0 +1,20 @@
+{
+  "statistics": [
+    {
+      "title": "Total Orders",
+      "value": 1234
+    },
+    {
+      "title": "Total Revenue",
+      "value": "$12,345"
+    },
+    {
+      "title": "Average Order Value",
+      "value": "$9.99"
+    },
+    {
+      "title": "New Customers",
+      "value": 567
+    }
+  ]
+}
