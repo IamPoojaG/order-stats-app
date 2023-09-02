@@ -1,5 +1,5 @@
 import React from 'react';
-import WidgetOrderStats from './WidgetOrderStats';
+import WidgetOrderStats from './component/WidgetOrderStats';
 
 function App() {
   return (

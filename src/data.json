@@ -1,20 +1,24 @@
 {
   "statistics": [
     {
-      "title": "Total Orders",
-      "value": 1234
+      "title": "Revenue",
+      "value": "$2.047",
+      "value1": "+10%"
     },
     {
-      "title": "Total Revenue",
-      "value": "$12,345"
+      "title": "Orders",
+      "value": 356,
+      "value1": "+20%"
     },
     {
-      "title": "Average Order Value",
-      "value": "$9.99"
+      "title": "Dine in",
+      "value": 220,
+      "value1": "+10%"
     },
     {
-      "title": "New Customers",
-      "value": 567
+      "title": "Take away",
+      "value": 135,
+      "value1": "+5%"
     }
   ]
 }
